@@ -2,6 +2,16 @@
 
 
 ## 🏆 GitHub Trophies
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+print("How long did you work?")
+print("Loading...")
+print("Please wait.... I'm thinking")
+```
+
 ![](https://github-profile-trophy.vercel.app/?username=GhostJaNuK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
