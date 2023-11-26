@@ -1,5 +1,5 @@
 ```console
-trykatchup@github:~$ ./welcome.sh
+ghostjanuk@github:~$ ./welcome.sh
 ```
 ```html
  _____________________________________
