@@ -1,5 +1,6 @@
-### Hi there 👋
-
+```console
+trykatchup@github:~$ ./welcome.sh
+```
 ```html
  _____________________________________
 < Welcome to my personal github page! >
