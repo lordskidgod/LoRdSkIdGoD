@@ -26,13 +26,13 @@ ghostjanuk@github:~$ ./welcome.sh
 # 💫 About Me:
 
 - 🔭 I’m currently working on [DefendrX](https://discord.com/api/oauth2/authorize?client_id=1009166975852875836&permissions=8&scope=bot)
-- 💼 Founder & CEO @ [Ceylon Network⚡](https://dsc.gg/ceylonnetwork)
-- 😎 Director @ [VorTeX E-Sports](https://discord.gg/HukEDCTZsg)
-- 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)
-- 💻 Jr.Fullstack Web Developer.
+- 💼 Founder & CEO @ [Ceylon Network](https://dsc.gg/ceylonnetwork)⚡
+- 😎 Director @ [VorTeX E-Sports](https://discord.gg/HukEDCTZsg)🌪
+- 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
+- 💻 Jr.Fullstack Web Developer.🌐
 - 🤖 Discord Bot Developer.
-- 🔏 Bug bounty hunter in free time.
-- 🎯 Wasting my time to save other people's time.
+- 🔏 Bug bounty Hunter in free time.
+- 🎯 Wasting my Time to save other people's time.
 
 
 <h3 align="left"> Tools 🛠️</h3>
