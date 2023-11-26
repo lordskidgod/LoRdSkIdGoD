@@ -1,5 +1,7 @@
 # Hi, I'm GhostJaNuK (💻💖☕)
 
+[![An image of @ghostjanuk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghostjanuk)](https://holopin.io/@ghostjanuk)
+
 ```console
 ghostjanuk@github:~$ ./welcome.sh
 ```
