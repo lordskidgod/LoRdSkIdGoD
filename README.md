@@ -1,3 +1,5 @@
+# Hi, I'm GhostJaNuK (💻💖☕)
+
 ```console
 ghostjanuk@github:~$ ./welcome.sh
 ```
