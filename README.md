@@ -1,7 +1,13 @@
-# Hi, I'm GhostJaNuK (💻💖☕)
+<h2 align="center">
+    Hello there! I'm <strong>GhostJaNuK</strong>(💻💖☕)
+</h2>
 
-[![An image of @ghostjanuk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghostjanuk)](https://holopin.io/@ghostjanuk)
-
+<p align="center">
+<a href="https://discord.com/users/844133915182366720">
+        <img src="https://lanyard-profile-readme.vercel.app/api/844133915182366720?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=30px" />
+    </a>
+<p>
+ 
 ```console
 ghostjanuk@github:~$ ./welcome.sh
 ```
