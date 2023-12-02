@@ -2,12 +2,6 @@
     Hello there! I'm <strong>GhostJaNuK</strong>(💻💖☕)
 </h2>
 
-<p align="center">
-<a href="https://discord.com/users/844133915182366720">
-        <img src="https://lanyard-profile-readme.vercel.app/api/844133915182366720?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=30px" />
-    </a>
-<p>
- 
 ```console
 ghostjanuk@github:~$ ./welcome.sh
 ```
