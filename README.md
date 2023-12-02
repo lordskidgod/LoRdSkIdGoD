@@ -31,7 +31,7 @@ ghostjanuk@github:~$ ./welcome.sh
 - 💼 Founder & CEO @ [Ceylon Network](https://dsc.gg/ceylonnetwork)⚡
 - 😎 Director @ [VorTeX E-Sports](https://discord.gg/HukEDCTZsg)🌪
 - 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
-- 💻 Jr.Fullstack Web Developer.🌐
+- 💻 Junior Fullstack Web Developer.🌐
 - 🤖 Discord Bot Developer.
 - 🔏 Bug bounty Hunter in free time.
 - 🎯 Wasting my Time to save other people's time.
