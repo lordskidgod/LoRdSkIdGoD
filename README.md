@@ -27,7 +27,7 @@ ghostjanuk@github:~$ ./welcome.sh
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [DefendrX](https://discord.com/api/oauth2/authorize?client_id=1009166975852875836&permissions=8&scope=bot)
+- 🔭 I’m currently working on [Zypher](https://discord.com/api/oauth2/authorize?client_id=1009166975852875836&permissions=8&scope=bot)
 - 💼 Founder & CEO @ [Ceylon Network](https://dsc.gg/ceylonnetwork)⚡
 - 😎 Director @ [VorTeX E-Sports](https://discord.gg/HukEDCTZsg)🌪
 - 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
