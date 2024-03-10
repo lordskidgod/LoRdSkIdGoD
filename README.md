@@ -2,7 +2,7 @@
     Hello there! I'm <strong>GhostJaNuK</strong>(💻💖☕)
 </h2>
 
-```zsh
+```sh
 ghostjanuk@github:~$ ./welcome.sh
 ```
 ```html
