@@ -30,8 +30,6 @@ ghostjanuk@github:~$ ./welcome.sh
 - 🔏 Bug bounty Hunter in free time.
 - 🎯 Wasting my Time to save other people's time.
 
-Signing Off,
-
 <h3 align="left"> Tools 🛠️</h3>
 
 <p align="center">
