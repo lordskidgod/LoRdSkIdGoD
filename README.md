@@ -16,24 +16,6 @@
                 ||----w |
                 ||     ||
 ```
-<img align="left" src="https://avatars.githubusercontent.com/u/107099949?v=4" width="290" />
-
-```haskell
-ghostjanuk@github
-------------------------------
-country  • Sri Lanka
-age      • 18
-
-os       • Windows 11 x64
-
-status   • student
-learning • Javascript/NodeJS, Typescript, Networking
-Discord  • lordskidgod
-website  • https://januk.dev (soon..)
-
-repos    • 5
-npm      • 4
-```
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=3848C3&center=true&vCenter=true&random=false&width=435&lines=Nice+To+Meet+You...;Discord+Server%2F+Bot+Developer;Web+Developer;Tech+Nerd;Cybersecurity+Researcher" alt="Typing SVG" /></a>
 </div>
