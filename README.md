@@ -2,10 +2,10 @@
     Hello there! I'm <strong>GhostJaNuK</strong>(💻💖☕)
 </h2>
 
-```zsh
+```console
 ghostjanuk@github:~$ ./welcome.sh
 ```
-```html
+```zsh
  _____________________________________
 < Welcome to my personal github page! >
  ------------------------------------- 
