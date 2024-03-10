@@ -6,6 +6,17 @@
 ghostjanuk@github:~$ ./welcome.sh
 ```
 ![status](https://api.statusbadges.me/badge/status/844133915182366720?simple=true&style=for-the-badge) &nbsp; ![playing](https://api.statusbadges.me/badge/playing/844133915182366720?style=for-the-badge) &nbsp; ![vscode](https://api.statusbadges.me/badge/vscode/844133915182366720?style=for-the-badge) &nbsp; [![spotify](https://api.statusbadges.me/badge/spotify/844133915182366720?style=for-the-badge)](https://api.statusbadges.me/openspotify/844133915182366720)
+
+```html
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 ---
 ## 🏆 GitHub Trophies
 
