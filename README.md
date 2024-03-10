@@ -2,8 +2,8 @@
     Hello there! I'm <strong>GhostJaNuK</strong>(💻💖☕)
 </h2>
 
-```sh
-~/: ./gitfetch.sh
+```console
+ghostjanuk@github:~$ ./welcome.sh
 ```
 
 ```html
