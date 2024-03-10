@@ -5,7 +5,7 @@
 ```console
 ghostjanuk@github:~$ ./welcome.sh
 ```
-```html
+```console
  _____________________________________
 < Welcome to my personal github page! >
  ------------------------------------- 
