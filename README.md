@@ -3,9 +3,9 @@
 </h2>
 
 ```console
-ghostjanuk@github:~$ ./welcome.sh
+ghostjanuk@github:``````zsh~``````console$ ./welcome.sh
 ```
-```zsh
+```html
  _____________________________________
 < Welcome to my personal github page! >
  ------------------------------------- 
