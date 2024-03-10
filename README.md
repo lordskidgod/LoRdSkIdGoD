@@ -3,7 +3,7 @@
 </h2>
 
 ```console
-ghostjanuk@github:~$ ./gitfetch.sh
+ghostjanuk@github:~$ ./welcome.sh
 ```
 ```html
  _____________________________________
