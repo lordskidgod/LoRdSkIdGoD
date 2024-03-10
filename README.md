@@ -5,8 +5,6 @@
 ```zsh
 ghostjanuk@github:~$ ./welcome.sh
 ```
-![status](https://api.statusbadges.me/badge/status/844133915182366720?simple=true&style=for-the-badge) &nbsp; ![playing](https://api.statusbadges.me/badge/playing/844133915182366720?style=for-the-badge) &nbsp; ![vscode](https://api.statusbadges.me/badge/vscode/844133915182366720?style=for-the-badge) &nbsp; [![spotify](https://api.statusbadges.me/badge/spotify/844133915182366720?style=flat-square)](https://api.statusbadges.me/openspotify/844133915182366720)
-
 ```html
  _____________________________________
 < Welcome to my personal github page! >
@@ -17,12 +15,6 @@ ghostjanuk@github:~$ ./welcome.sh
                 ||----w |
                 ||     ||
 ```
----
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=GhostJaNuK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=3848C3&center=true&vCenter=true&random=false&width=435&lines=Nice+To+Meet+You...;Discord+Server%2F+Bot+Developer;Web+Developer;Tech+Nerd;Cybersecurity+Researcher" alt="Typing SVG" /></a>
 </div>
