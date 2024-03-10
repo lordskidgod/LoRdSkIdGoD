@@ -3,8 +3,9 @@
 </h2>
 
 ```sh
-ghostjanuk@github:~$ ./welcome.sh
+~/: ./gitfetch.sh
 ```
+
 ```html
  _____________________________________
 < Welcome to my personal github page! >
