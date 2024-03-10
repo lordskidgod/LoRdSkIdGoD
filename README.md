@@ -16,7 +16,7 @@
                 ||----w |
                 ||     ||
 ```
-<img align="left" src="[https://avatars.githubusercontent.com/u/128246041?v=4](https://avatars.githubusercontent.com/u/107099949?v=4)" width="290" />
+<img align="left" src="https://avatars.githubusercontent.com/u/107099949?v=4" width="290" />
 
 ```haskell
 ghostjanuk@github
