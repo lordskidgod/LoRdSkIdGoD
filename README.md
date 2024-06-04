@@ -3,7 +3,7 @@
 </h2>
 
 ```console
-ghostjanuk@github:~$ ./welcome.sh
+lordskidgod@github:~$ ./welcome.sh
 ```
 
 ```html
@@ -23,7 +23,7 @@ ghostjanuk@github:~$ ./welcome.sh
 # 💫 About Me:
 
 - 🔭 I’m currently working on [Zypher AI](https://discord.com/api/oauth2/authorize?client_id=1009166975852875836&permissions=8&scope=bot)
-- 💼 Founder & CEO @ [Ceylon Network Inc](https://dsc.gg/ceylonnetwork)⚡
+- 💼 CEO & CFO @ [Ceylon Network Inc](https://dsc.gg/ceylonnetwork)⚡
 - 😎 Director @ [VorTeX E-Sports](https://discord.gg/HukEDCTZsg)🌪
 - 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
 - 💻 Junior Fullstack Web Developer.🌐
@@ -61,7 +61,7 @@ ghostjanuk@github:~$ ./welcome.sh
 ---
 
 ```javascript
-[sudo] Password for ghostjanuk:
+[sudo] Password for lordskidgod:
 
 CATching bugs in code...
                               
