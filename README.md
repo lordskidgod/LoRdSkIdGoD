@@ -24,7 +24,7 @@ lordskidgod@github:~$ ./welcome.sh
 
 - 🔭 I’m currently working on [Zypher AI](https://discord.com/api/oauth2/authorize?client_id=1009166975852875836&permissions=8&scope=bot)
 - 💼 CEO & CFO @ [Ceylon Network Inc](https://dsc.gg/ceylonnetwork)⚡
-- 😎 Director @ [VorTeX E-Sports](https://discord.gg/HukEDCTZsg)🌪
+- 😎 Director @ [VorTeX eSports](https://discord.gg/HukEDCTZsg)🌪
 - 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
 - 💻 Junior Fullstack Web Developer.🌐
 - 🤖 Discord Bot Developer.
