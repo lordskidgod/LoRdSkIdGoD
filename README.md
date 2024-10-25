@@ -23,7 +23,7 @@ lordskidgod@github:~$ ./welcome.sh
 # 💫 About Me:
 
 - 🔭 I’m currently working on [Project-Zypher-Global](https://discord.com/api/oauth2/authorize?client_id=1009166975852875836&permissions=8&scope=bot)
-- 💼 CEO & CFO @ [Ceylon Network Inc](https://dsc.gg/ceylonnetwork)⚡
+- 💼 HQ Manager & Co-founder @ [Ceylon Network Inc](https://dsc.gg/ceylonnetwork)⚡
 - 😎 Director @ [VorTeX eSports](https://discord.gg/HukEDCTZsg)🌪
 - 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
 - 💻 Junior Fullstack Web Developer.🌐
