@@ -45,7 +45,7 @@ lordskidgod@github:~$ ./welcome.sh
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,python,mongodb,mysql,lua,powershell" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,vite,react,python,mongodb,mysql,lua,powershell" />
   </a>
 </p>
 
