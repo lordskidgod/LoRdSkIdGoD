@@ -55,7 +55,7 @@ lordskidgod@github:~$ ./welcome.sh
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,discord,github,heroku,bolt,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,discord,github,heroku,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
   </a>
 </p>
 ---
