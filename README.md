@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there! I'm <strong>LoRdSkIdGoD</strong>(💻💖☕)
+    Hey Howdy! I'm <strong>LoRdSkIdGoD</strong>(💻💖☕)
 </h2>
 
 ```console
