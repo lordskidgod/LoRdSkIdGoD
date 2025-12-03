@@ -22,7 +22,7 @@ lordskidgod@github:~$ ./welcome.sh
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Project-Zypher-Global](https://discord.com/api/oauth2/authorize?client_id=1009166975852875836&permissions=8&scope=bot)
+- 🔭 I’m currently working on [Merno]([https://discord.gg/esYM4e5ksk](https://www.mernoapp.com/))
 - 💼 HQ Manager & Co-founder @ [Ceylon Network, Inc.](https://dsc.gg/ceylonnetwork)⚡
 - 😎 Director @ [VorteX eSports](https://discord.gg/HukEDCTZsg)🌪
 - 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
