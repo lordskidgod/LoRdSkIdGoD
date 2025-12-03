@@ -22,7 +22,7 @@ lordskidgod@github:~$ ./welcome.sh
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Merno]([https://discord.gg/esYM4e5ksk](https://www.mernoapp.com/))
+- 🔭 I’m currently working on [Merno](https://www.mernoapp.com/)
 - 💼 HQ Manager & Co-founder @ [Ceylon Network, Inc.](https://dsc.gg/ceylonnetwork)⚡
 - 😎 Director @ [VorteX eSports](https://discord.gg/HukEDCTZsg)🌪
 - 🌱 Lead Developer @ [PROJECT | CN DEVELOPMENT UNIT](https://discord.gg/T866cmAKBJ)🚀
