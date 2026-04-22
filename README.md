@@ -74,13 +74,11 @@ lordskidgod@github:~$ ./welcome.sh
 
 ## 🕹️ Pac-Man Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordskidgod/lordskidgod/output/pacman-contribution-grid-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordskidgod/lordskidgod/output/pacman-contribution-grid.svg" />
-    <img alt="pacman-contributions" src="https://raw.githubusercontent.com/lordskidgod/lordskidgod/output/pacman-contribution-grid-dark.svg" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordskidgod/LoRdSkIdGoD/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordskidgod/LoRdSkIdGoD/output/pacman-contribution-graph.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/lordskidgod/LoRdSkIdGoD/output/pacman-contribution-graph-dark.svg" />
+</picture>
 
 ---
 
